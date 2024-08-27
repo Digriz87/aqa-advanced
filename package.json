@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "��I\u0000n\u0000i\u0000t\u0000i\u0000a\u0000l\u0000 \u0000c\u0000o\u0000m\u0000m\u0000i\u0000t\u0000 \u0000o\u0000n\u0000 \u0000m\u0000a\u0000i\u0000n\u0000 \u0000b\u0000r\u0000a\u0000n\u0000c\u0000h\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digriz87/aqa-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digriz87/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/Digriz87/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
